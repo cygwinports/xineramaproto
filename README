@@ -1,6 +1,6 @@
 xineramaproto
 ------------------------------------------
-Xorg Xinerama protocol headers
+X.Org Xinerama protocol headers
 
 Build requirements:
   cygwin-1.5.20-1
